@@ -28,7 +28,7 @@ Say what the step will be
 ![Dashboard Screen](https://github.com/sheriffyusuf/Journal-Flutter/blob/master/screenshots/flutter_02.png)
 
 #### Add Journal Screen
-![Add Journal Screen](https://github.com/sheriffyusuf/Journal-Flutter/blob/master/screenshots/flutter_01.png)
+![Add Journal Screen](https://github.com/sheriffyusuf/Journal-Flutter/blob/master/screenshots/flutter_03.png)
 
 
 
