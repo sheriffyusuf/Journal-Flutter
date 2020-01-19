@@ -22,20 +22,15 @@ A step by step series of examples that tell you how to get a development env run
 Say what the step will be
 
 #### Login Screen
-![LoginScreen](/https://github.com/sheriffyusuf/Journal-Flutter/blob/master/screenshots/flutter_01.png)
-Format: ![Alt Text](url)
+![LoginScreen](https://github.com/sheriffyusuf/Journal-Flutter/blob/master/screenshots/flutter_01.png)
 
 #### Dashboard Screen
-![Dashboard Screen](/https://github.com/sheriffyusuf/Journal-Flutter/blob/master/screenshots/flutter_02.png)
-Format: ![Alt Text](url)
+![Dashboard Screen](https://github.com/sheriffyusuf/Journal-Flutter/blob/master/screenshots/flutter_02.png)
 
 #### Add Journal Screen
-![Add Journal Screen](/https://github.com/sheriffyusuf/Journal-Flutter/blob/master/screenshots/flutter_01.png)
-Format: ![Alt Text](url)
+![Add Journal Screen](https://github.com/sheriffyusuf/Journal-Flutter/blob/master/screenshots/flutter_01.png)
 
-```
 
-```
 
 And repeat
 
