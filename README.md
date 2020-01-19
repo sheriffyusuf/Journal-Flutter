@@ -10,19 +10,31 @@ These instructions will get you a copy of the project up and running on your loc
 
 What things you need to install the software and how to install them
 
+
+```
 -  google-services.json file Obtained from Firebase Console
 ```
 
-```
-
-### Installing
+### Screenshots
 
 A step by step series of examples that tell you how to get a development env running
 
 Say what the step will be
 
+#### Login Screen
+![LoginScreen](/https://github.com/sheriffyusuf/Journal-Flutter/blob/master/screenshots/flutter_01.png)
+Format: ![Alt Text](url)
+
+#### Dashboard Screen
+![Dashboard Screen](/https://github.com/sheriffyusuf/Journal-Flutter/blob/master/screenshots/flutter_02.png)
+Format: ![Alt Text](url)
+
+#### Add Journal Screen
+![Add Journal Screen](/https://github.com/sheriffyusuf/Journal-Flutter/blob/master/screenshots/flutter_01.png)
+Format: ![Alt Text](url)
+
 ```
-Give the example
+
 ```
 
 And repeat
